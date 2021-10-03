@@ -1,0 +1,33 @@
+.bgcolor
+{
+    background-color: #24353f;
+}
+.color{
+    color: #17a2b8;
+}
+.btn:hover
+{
+    color: white;
+}
+input
+{
+    background-color:transparent !important;
+    color: white !important ;
+}
+.shadow1
+{
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+.container-fluid
+{
+    height: 616px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover
+{
+    color: white;
+    text-decoration: underline;
+}
